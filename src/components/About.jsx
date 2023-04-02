@@ -8,9 +8,10 @@ export default function About() {
             <p className="section__subtitle section__subtitle--about">Student & developer based in India</p>
 
             <div className="about-me__body">
-                <p>I intend to be a part of an organization where I can constantly learn and develop my
-                    technical and management skills and make best use of it for the growth of the organization.
-                    I look forward to establishing myself by adopting new technologies as well.
+                <p>I desire to be a member of an organization where I can constantly learn and expand my technical and
+                   management abilities and make optimal use of it for the success of the firm. I’m eager to build my 
+                   identity while utilizing new technology.
+l
                 </p>
                 <p>I am an enthusiastic, self-motivated, reliable, responsible and hard working person. I am a mature
                     team worker and adaptable to all challenging situations. I am able to work well both in a team
